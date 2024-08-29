@@ -73,7 +73,7 @@ body {
   font-family: "poppins", sans-serif;
   font-size: 16px;
   font-weight: 300;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.7);
   line-height: 160%;
   -ms-scroll-chaining: none;
       overscroll-behavior: none;
@@ -984,7 +984,7 @@ spaces
 }
 
 .arg-p-120-30 {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 30px;
 }
 @media screen and (max-width: 992px) {
@@ -2264,7 +2264,7 @@ about
 }
 .arg-about-photo .arg-lines-place {
   position: absolute;
-  top: -120px;
+  top: -200px;
   left: -27%;
 }
 
