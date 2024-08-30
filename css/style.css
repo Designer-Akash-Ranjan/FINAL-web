@@ -934,7 +934,7 @@ spaces
 
 .arg-p-120-60 {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 @media screen and (max-width: 992px) {
   .arg-p-120-60 {
