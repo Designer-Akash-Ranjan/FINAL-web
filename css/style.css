@@ -2813,6 +2813,10 @@ revievs
 }
 .arg-slider-nav.arg-soft .arg-slider-arrow {
   background-color: rgb(229, 229, 229);
+  position: relative;
+}
+.arg-slider-nav.arg-soft .arg-slider-arrow svg  {
+  position: absolute;
 }
 .arg-slider-nav.arg-soft .arg-slider-arrow svg path {
   fill: rgb(0, 0, 0);
@@ -4229,7 +4233,7 @@ html.is-animating .arg-menu-frame {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1025px) {
     .arg-logo img {
         filter: invert(1);
     }
