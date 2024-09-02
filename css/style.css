@@ -590,14 +590,14 @@ button
           justify-content: center;
   border: none;
   letter-spacing: 2px;
-  font-size: 12px;
+  font-size: 14px;
   background-color: rgb(122, 241, 122);
   color: rgb(0, 0, 0);
   border-radius: 70px;
   padding: 0 15px 0 50px;
   height: 70px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   -webkit-transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
@@ -1983,7 +1983,7 @@ dodecahedron
   right: 100px;
 }
 .arg-position-1 .arg-pentagon div {
-  border-top: 0.1px solid rgb(255, 255, 255);
+  border-top: 0.1px solid rgb(122, 241, 122);
 }
 
 .arg-position-2 {
@@ -1991,7 +1991,7 @@ dodecahedron
   left: 15%;
 }
 .arg-position-2 .arg-pentagon div {
-  border-top: 1px solid rgb(255, 255, 255);
+  border-top: 1px solid rgb(122, 241, 122);
 }
 .arg-position-2 .arg-dodecahedron {
   -webkit-animation-delay: 0.5s;
@@ -2008,7 +2008,7 @@ dodecahedron
   right: 35%;
 }
 .arg-position-3 .arg-pentagon div {
-  border-top: 1px solid rgb(255, 255, 255);
+  border-top: 1px solid rgb(122, 241, 122);
 }
 .arg-position-3 .arg-dodecahedron {
   -webkit-animation-delay: 1s;
@@ -2025,7 +2025,7 @@ dodecahedron
   right: 20%;
 }
 .arg-position-4 .arg-pentagon div {
-  border-top: 0.1px solid rgb(255, 255, 255);
+  border-top: 0.1px solid rgb(122, 241, 122);
 }
 .arg-position-4 .arg-dodecahedron {
   -webkit-animation-delay: 0.5s;
